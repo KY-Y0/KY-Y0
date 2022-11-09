@@ -4,4 +4,4 @@
 
 -x  I’m currently studying Software Design
 
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+Friend;Welcome+to+my+Github+profile" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+Friend;Welcome+to+my+Github+profile;width=500&amp;height=50" style="max-width: 100%;"></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C4D7FF&width=435&lines=Hello+Friend;Welcome+to+my+Github!)](https://git.io/typing-svg)
