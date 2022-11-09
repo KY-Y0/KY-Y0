@@ -2,9 +2,9 @@
 
 -x  I’m interested in Coding
 
--x  I’m currently studying Software Design
+-x  I’m currently studying Software Design 
+<pre>                                        |
                                          |
-<pre>                                    |
                                          |
                                         .  .
                                        .|  |.
