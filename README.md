@@ -4,7 +4,7 @@
 
 -x  I’m currently studying Software Design
                                          |
-                                         |
+<pre>                                    |
                                          |
                                         .  .
                                        .|  |.
@@ -14,3 +14,4 @@
                                       / /`'\ \
                                       ` \  / '   
                                          `'
+<pre>
