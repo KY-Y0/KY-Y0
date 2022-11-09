@@ -3,13 +3,13 @@
 -x  I’m interested in Coding
 
 -x  I’m currently studying Software Design 
-
-                                 .  .
-                                .|  |.
-                                ||  ||
-                                \\()//
-                                .={}=.
-                               / /`'\ \
-                               ` \  / '  
-                                  `'
+                                     |
+                                   . |.
+                                  .|  |.
+                                  ||  ||
+                                  \\()//
+                                  .={}=.
+                                 / /`'\ \
+                                 ` \  / '  
+                                    `'
 
