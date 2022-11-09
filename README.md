@@ -3,7 +3,7 @@
 -x  I’m interested in Coding
 
 -x  I’m currently studying Software Design 
-<br>                                |
+                                |
                                    |
                                    |
                                   .  .
@@ -14,4 +14,8 @@
                                 / /`'\ \
                                 ` \  / '   
                                    `'
-</br>
+
+
+    +-+-+-+-+ +-+-+-+-+-+-+-+-+-+ 
+    |T|y|p|e| |S|o|m|e|t|h|i|n|g|  
+    +-+-+-+-+ +-+-+-+-+-+-+-+-+-+
