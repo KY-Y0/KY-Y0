@@ -6,5 +6,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C4D7FF&width=435&lines=Hello+Friend;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KY-Y0&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KY-Y0&layout=compact&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
