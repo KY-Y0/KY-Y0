@@ -1,8 +1,6 @@
 -x  Hi, I’m Michél
 
--x  I’m interested in Cyber Security and Coding
-
--x  I’m currently studying Software Design
+-x  I’m interested in Cyber Security
 
 ---
 
